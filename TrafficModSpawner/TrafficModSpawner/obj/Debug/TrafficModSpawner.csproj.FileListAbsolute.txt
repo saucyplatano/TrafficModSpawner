@@ -1,0 +1,11 @@
+C:\Users\Adrian\source\repos\TrafficModSpawner\TrafficModSpawner\bin\Debug\TrafficModSpawner.dll
+C:\Users\Adrian\source\repos\TrafficModSpawner\TrafficModSpawner\bin\Debug\TrafficModSpawner.pdb
+C:\Users\Adrian\source\repos\TrafficModSpawner\TrafficModSpawner\bin\Debug\ScriptHookVDotNet3.dll
+C:\Users\Adrian\source\repos\TrafficModSpawner\TrafficModSpawner\bin\Debug\ScriptHookVDotNet3.xml
+C:\Users\Adrian\source\repos\TrafficModSpawner\TrafficModSpawner\obj\Debug\TrafficModSpawner.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\TrafficModSpawner\TrafficModSpawner\obj\Debug\TrafficModSpawner.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\TrafficModSpawner\TrafficModSpawner\obj\Debug\TrafficModSpawner.csproj.CopyComplete
+C:\Users\Adrian\source\repos\TrafficModSpawner\TrafficModSpawner\obj\Debug\TrafficModSpawner.dll
+C:\Users\Adrian\source\repos\TrafficModSpawner\TrafficModSpawner\obj\Debug\TrafficModSpawner.pdb
+C:\Users\Adrian\source\repos\TrafficModSpawner\TrafficModSpawner\bin\Debug\INIFileParser.dll
+C:\Users\Adrian\source\repos\TrafficModSpawner\TrafficModSpawner\bin\Debug\INIFileParser.xml
